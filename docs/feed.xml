@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 20:47:51 +0000</lastBuildDate>
-    <item>
-      <title>Taiho Oncology, Inc. Announces Comprehensive Access Support Program for LONSURF® (trifluridine and tipiracil)</title>
-      <link>https://www.taihooncology.com/us/news/2015-09-26-taiho-oncology-inc-announces-comprehensive-access-support-program-lonsurf/</link>
-      <description>Read the complete press release on Taiho Oncology: Taiho Oncology, Inc. Announces Comprehensive Access Support Program for LONSURF® (trifluridine and tipiracil)</description>
-      <guid isPermaLink="false">https://www.taihooncology.com/us/news/2015-09-26-taiho-oncology-inc-announces-comprehensive-access-support-program-lonsurf/</guid>
-      <pubDate>Tue, 29 Sep 2015 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 05:48:21 +0000</lastBuildDate>
     <item>
       <title>Taiho Oncology Announces Multiple Presentations at the ASCO 2016 Annual Meeting</title>
       <link>https://www.taihooncology.com/us/news/2016-05-31-taiho-oncology-inc-multiple-presentations-asco-2016-annual-meeting/</link>
@@ -708,6 +701,13 @@
       <description>Read the complete press release on Taiho Oncology: Zipalertinib Plus Chemotherapy First-Line Phase 3 REZILIENT3 Trial Data Selected for Presidential Symposium Presentation at the IASLC 2026 World Conference on Lung Cancer</description>
       <guid isPermaLink="false">https://www.taihooncology.com/us/news/zipalertinib-plus-chemotherapy-first-line-phase-3-rezilient3-trial-data-selected-for-presidential-symposium-presentation-at-the-iaslc-2026-world-conference-on-lung-cancer/</guid>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zipalertinib Plus Chemotherapy Demonstrates 6-Month Median Progression-Free Survival Benefit in REZILIENT3 Phase 3 Trial in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer</title>
+      <link>https://www.taihooncology.com/us/news/zipalertinib-plus-chemotherapy-demonstrates-6-month-median-progression-free-survival-benefit-in-rezilient3-phase-3-trial-in-first-line-egfr-exon-20-insertion-mutation-non-small-cell-lung-cancer/</link>
+      <description>Read the complete press release on Taiho Oncology: Zipalertinib Plus Chemotherapy Demonstrates 6-Month Median Progression-Free Survival Benefit in REZILIENT3 Phase 3 Trial in First-Line EGFR Exon 20 Insertion Mutation Non-Small Cell Lung Cancer</description>
+      <guid isPermaLink="false">https://www.taihooncology.com/us/news/zipalertinib-plus-chemotherapy-demonstrates-6-month-median-progression-free-survival-benefit-in-rezilient3-phase-3-trial-in-first-line-egfr-exon-20-insertion-mutation-non-small-cell-lung-cancer/</guid>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
