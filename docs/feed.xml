@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:33:31 +0000</lastBuildDate>
-    <item>
-      <title>Taiho Oncology Inc. Announces Expansion into Canada</title>
-      <link>https://www.taihooncology.com/us/news/2016-11-18-taiho-oncology-inc-announces-expansion-canada/</link>
-      <description>Read the complete press release on Taiho Oncology: Taiho Oncology Inc. Announces Expansion into Canada</description>
-      <guid isPermaLink="false">https://www.taihooncology.com/us/news/2016-11-18-taiho-oncology-inc-announces-expansion-canada/</guid>
-      <pubDate>Fri, 18 Nov 2016 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 20 Oct 2026 12:06:24 +0000</lastBuildDate>
     <item>
       <title>Taiho Pharmaceutical to Participate in Japan Healthcare Venture Summit 2017</title>
       <link>https://www.taihooncology.com/us/news/2017-10-04-taiho-pharmaceutical-participate-japan-healthcare-venture-summit-2017/</link>
@@ -708,6 +701,13 @@
       <description>Read the complete press release on Taiho Oncology: Taiho Oncology and Taiho Pharmaceutical Announce Positive Topline Results in Phase 3 AZTOUND Trial Evaluating Oral Azacitidine and Cedazuridine in Myelodysplastic Syndromes or Chronic Myelomonocytic Leukemia</description>
       <guid isPermaLink="false">https://www.taihooncology.com/us/news/taiho-oncology-and-taiho-pharmaceutical-announce-positive-topline-results-in-phase-3-aztound-trial-evaluating-oral-azacitidine-and-cedazuridine-in-myelodysplastic-syndromes-or-chronic-myelomonocytic-leukemia/</guid>
       <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zipalertinib Demonstrates Clinically Meaningful Intracranial Antitumor Activity in Patients with NSCLC with EGFR Exon 20 Insertion or Uncommon EGFR Mutations and Active CNS Metastases</title>
+      <link>https://www.taihooncology.com/us/news/zipalertinib-demonstrates-clinically-meaningful-intracranial-antitumor-activity-in-patients-with-nsclc-with-egfr-exon-20-insertion-or-uncommon-egfr-mutations-and-active-cns-metastases/</link>
+      <description>Read the complete press release on Taiho Oncology: Zipalertinib Demonstrates Clinically Meaningful Intracranial Antitumor Activity in Patients with NSCLC with EGFR Exon 20 Insertion or Uncommon EGFR Mutations and Active CNS Metastases</description>
+      <guid isPermaLink="false">https://www.taihooncology.com/us/news/zipalertinib-demonstrates-clinically-meaningful-intracranial-antitumor-activity-in-patients-with-nsclc-with-egfr-exon-20-insertion-or-uncommon-egfr-mutations-and-active-cns-metastases/</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
